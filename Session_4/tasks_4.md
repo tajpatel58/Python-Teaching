@@ -15,7 +15,7 @@
 
 
 ### Task 2:
-- Write a function that takes in 1 alphanumeric string, and returns the number of vowels, and the number of consonants. 
+- Write a function that takes in 1 string with only letters, and returns the number of vowels, and the number of consonants. 
 
         Inputs: 
             str: "Hello"
